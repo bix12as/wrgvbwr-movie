@@ -1,0 +1,33 @@
+{
+    "short_name": "CODERX FILMS",
+    "name": "CODERX",
+    "icons": [
+      {
+        "src": "/icons/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/icons/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/icons/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/icons/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "180x180",
+        "purpose": "maskable"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "minimal-ui",
+    "theme_color": "#111111",
+    "background_color": "#111111"
+  }
+  
